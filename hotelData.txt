@@ -1,0 +1,10 @@
+Room 1: mamam
+Room 2: empty
+Room 3: empty
+Room 4: empty
+Room 5: empty
+Room 6: empty
+Room 7: empty
+Room 8: empty
+Room 9: empty
+Room 10: empty
